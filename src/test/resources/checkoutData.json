@@ -1,0 +1,15 @@
+{
+  "firstName" : "firstNameDemo",
+  "lastName" : "lastNameDemo",
+  "birthDay" : "27",
+  "birthMonth" : "7",
+  "birthYear" : "1995",
+  "email" : "demodssdsdsfsdsg@gmail.com",
+  "password" : "passwordDemo",
+  "country" : "123",
+  "city" : "cairo",
+  "address1" : "3 26th of july st.",
+  "postalCode" : "11245",
+  "phoneNumber" : "01833754623"
+
+}

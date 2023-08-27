@@ -1,0 +1,9 @@
+{
+  "firstName" : "firstNameDemo",
+  "lastName" : "lastNameDemo",
+  "birthDay" : "27",
+  "birthMonth" : "7",
+  "birthYear" : "1995",
+  "email" : "demadaomail@gmail.com",
+  "password" : "passwordDemo"
+}
