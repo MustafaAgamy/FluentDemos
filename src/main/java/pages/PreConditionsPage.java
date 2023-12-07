@@ -26,6 +26,7 @@ public class PreConditionsPage {
         return this;
     }
 
+
     @Step
     public PreConditionsPage userAlreadyLoggedIn(JSONClass jsonData){
         homePage = new HomePage(driver);
